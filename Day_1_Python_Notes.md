@@ -1,9 +1,3 @@
-Here is your code arranged into a clean, well-structured Markdown (`.md`) file format. This is perfect for uploading directly to GitHub via VS Code, as it formats the notes beautifully on GitHub while cleanly separating the code blocks from their expected outputs.
-
-You can save this file in VS Code as `Day_1_Python_Notes.md`.
-
----
-
 ```markdown
 # Day 1: Python Basics, Data Types, and Flow Control
 
